@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 https://youtu.be/BHGbzOvWdEU
 
-<img src='Sea_Monster_Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/R6QwfZ5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
