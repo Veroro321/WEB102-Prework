@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-<img src='https://i.imgur.com/R6QwfZ5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/PM7n4Sq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
@@ -37,7 +37,7 @@ GIF created with ...  LICEcap
 
 Describe any challenges encountered while building the app. 
 
-Reduce was something that I had to learn on my own. First time hearing about it unlike desctructuring or filter which I had used plenty times. 
+Reduce was something that I had to learn on my own. First time hearing about it unlike filter which I had used plenty of times. 
 
 ## License
 
